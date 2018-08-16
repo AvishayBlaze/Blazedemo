@@ -1,5 +1,5 @@
 execution:
-- concurrency: 250
+- concurrency: 200
   throughput: 500
   ramp-up: 3ms
   hold-for: 1h
